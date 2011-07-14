@@ -1,0 +1,12 @@
+{   
+    "name": "runways", 
+    "description": "RRDTool library",
+    "version": "0.1.0"
+    "author": "Michael Stella",
+    "contributors": "Frank Wuerthwein, Igor Sfiligoi",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/alertedsnake/rrdtool.git"
+    },
+    "keywords": [ "rrdtool" ]
+}
