@@ -8,5 +8,8 @@
         "type": "git",
         "url": "git://github.com/alertedsnake/rrdtool.git"
     },
+    devDependencies: {
+        vows: '>=0.5.8'
+    },
     "keywords": [ "rrdtool" ]
 }
